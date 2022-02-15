@@ -1,0 +1,16 @@
+apps.skypeassets.com
+login.skype.com
+pipe.skype.com
+secure.skype.com
+config.skype.com
+api.skype.com
+ui.skype.com
+s.gateway.messenger.live.com
+get.skype.com
+dsn13.d.skype.net
+mobile.pipe.aria.microsoft.com
+a.config.skype.com
+www.skypeassets.com
+dr.skype.net
+apps.skype.com
+api.asm.skype.com
